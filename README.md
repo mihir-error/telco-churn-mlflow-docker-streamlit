@@ -77,7 +77,10 @@ Adjusted after 10% discount: $927,624.74
 📸 Screenshots 
 
 ![Streamlit UI](screenshots/streamlitui.png)
-
+![Business KPI](businesskpi.png)
+![mlflow](mlflow1.png)
+![mlflowmodel](mlflowmodeltrack.png)
+![docker](docker.png)
 
 
 📌 What’s Next
