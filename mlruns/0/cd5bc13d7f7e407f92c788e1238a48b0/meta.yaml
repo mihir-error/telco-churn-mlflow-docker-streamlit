@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/cd5bc13d7f7e407f92c788e1238a48b0/artifacts
+end_time: 1755522227166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd5bc13d7f7e407f92c788e1238a48b0
+run_name: secretive-shrew-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755522221445
+status: 3
+tags: []
+user_id: MIHIR

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/3fa9faf44698477faa252373dc93bca2/artifacts
+end_time: 1755512616119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa9faf44698477faa252373dc93bca2
+run_name: gaudy-yak-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755512605488
+status: 3
+tags: []
+user_id: MIHIR

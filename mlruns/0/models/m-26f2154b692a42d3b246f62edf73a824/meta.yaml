@@ -1,0 +1,10 @@
+artifact_location: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/models/m-26f2154b692a42d3b246f62edf73a824/artifacts
+creation_timestamp: 1755521821538
+experiment_id: '0'
+last_updated_timestamp: 1755521828447
+model_id: m-26f2154b692a42d3b246f62edf73a824
+model_type: null
+name: model
+source_run_id: b02c7dfa8a154885ac2d3beee3ab58a3
+status: 2
+status_message: null

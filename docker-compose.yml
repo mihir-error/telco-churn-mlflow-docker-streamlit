@@ -1,0 +1,24 @@
+services:
+  mlflow:
+    build:
+      context: .
+      dockerfile: dockerfile.mlflow
+    container_name: mlflow
+    ports:
+      - "5000:5000"  # MLflow UI
+    volumes:
+      - ./mlruns:/mlflow/mlruns  # Persist MLflow experiments
+
+  streamlit:
+    build: .
+    container_name: telco-churn-app
+    ports:
+      - "8501:8501"  # Streamlit app
+    volumes:
+      - ./data:/app/data
+      - ./mlruns:/app/mlruns  # Share MLflow folder
+    environment:
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+    depends_on:
+      - mlflow
+    command: streamlit run train_ml.py --server.port=8501 --server.address=0.0.0.0

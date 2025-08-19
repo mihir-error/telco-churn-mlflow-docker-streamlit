@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/b1fd51b85542415192e2f73c070bb40e/artifacts
+end_time: 1755511846947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1fd51b85542415192e2f73c070bb40e
+run_name: gifted-bat-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755511846860
+status: 4
+tags: []
+user_id: MIHIR

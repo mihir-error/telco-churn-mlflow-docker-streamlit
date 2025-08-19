@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/04428df92ad54136a18bd815994f0346/artifacts
+end_time: 1755534061854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04428df92ad54136a18bd815994f0346
+run_name: fortunate-frog-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755534053639
+status: 3
+tags: []
+user_id: root

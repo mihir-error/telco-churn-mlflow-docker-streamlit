@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/de65fe2ee90646f89331c22dbd23d66a/artifacts
+end_time: 1755512389150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de65fe2ee90646f89331c22dbd23d66a
+run_name: peaceful-pug-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755512389073
+status: 4
+tags: []
+user_id: MIHIR

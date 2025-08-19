@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/b75ea8e854b74629a5f821723b3819e6/artifacts
+end_time: 1755522206823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b75ea8e854b74629a5f821723b3819e6
+run_name: whimsical-rat-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755522199184
+status: 3
+tags: []
+user_id: MIHIR

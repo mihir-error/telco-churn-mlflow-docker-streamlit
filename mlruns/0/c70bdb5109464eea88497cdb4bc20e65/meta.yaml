@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/c70bdb5109464eea88497cdb4bc20e65/artifacts
+end_time: 1755522649447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c70bdb5109464eea88497cdb4bc20e65
+run_name: caring-stag-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755522639539
+status: 3
+tags: []
+user_id: MIHIR

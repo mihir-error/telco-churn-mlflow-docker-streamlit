@@ -1,0 +1,22 @@
+artifact_path: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/models/m-578dbb9abfea4c788c0cecd5150b4a1e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.2.0
+model_id: m-578dbb9abfea4c788c0cecd5150b4a1e
+model_size_bytes: 8198350
+model_uuid: m-578dbb9abfea4c788c0cecd5150b4a1e
+prompts: null
+run_id: b75ea8e854b74629a5f821723b3819e6
+utc_time_created: '2025-08-18 13:03:20.979267'

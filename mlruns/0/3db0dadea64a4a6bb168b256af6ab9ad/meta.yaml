@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20telco%20churn/mlruns/0/3db0dadea64a4a6bb168b256af6ab9ad/artifacts
+end_time: 1755522436772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db0dadea64a4a6bb168b256af6ab9ad
+run_name: peaceful-shad-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755522430080
+status: 3
+tags: []
+user_id: MIHIR
