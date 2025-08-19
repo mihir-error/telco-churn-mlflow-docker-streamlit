@@ -23,36 +23,6 @@ Monitor model performance over time with MLflow
 
 Make better retention decisions with live KPIs
 
-📂 Project Structure
-project-root/
-│
-├── data/                 # Datasets
-│   ├── raw/              # Original data
-│   ├── processed/        # Cleaned / preprocessed
-│   └── interim/          # Samples, testing data
-│
-├── notebooks/            # Jupyter notebooks (EDA & experiments)
-│   ├── 01_eda.ipynb
-│   ├── 02_baselineML.ipynb
-│   └── 03_RF_XGB.ipynb
-│
-├── src/                  # Source code
-│   ├── feature_engineering.py
-│   └── train_ml.py
-│
-├── models/               # Trained pipelines
-│   ├── rf_churn_pipeline.pkl
-│   └── final_churn_pipeline.pkl
-│
-├── mlruns/               # MLflow tracking artifacts
-│
-├── docker/               # Docker setup
-│   ├── Dockerfile
-│   ├── dockerfile.mlflow
-│   └── docker-compose.yml
-│
-├── requirements.txt
-└── README.md
 
 ⚙️ Tech Highlights
 
@@ -90,7 +60,7 @@ Streamlit App → http://localhost:8501
 python src/train_ml.py
 
 
-Saves the pipeline in models/final_churn_pipeline.pkl.
+Saves the pipeline in models/final_churn_pipeline.pkl
 
 📊 Results
 
@@ -111,8 +81,6 @@ Streamlit App prediction page
 MLflow UI with experiments logged
 
 📌 What’s Next
-
-Add monitoring to retrain the model on fresh data
 
 Experiment with deep learning models
 
