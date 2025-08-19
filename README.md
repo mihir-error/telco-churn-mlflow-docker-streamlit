@@ -11,6 +11,8 @@ Providing a Streamlit dashboard that shows live predictions and business KPIs
 
 🎯 Goal
 
+The goal of this project is to **predict customers who are likely to churn** (leave the company) based on their historical data.  
+This helps businesses identify at-risk customers early and take proactive steps to improve retention.
 Build a reproducible ML platform that predicts churn and shows how much revenue a telecom company could save by retaining high-risk customers.
 
 🌍 Vision
