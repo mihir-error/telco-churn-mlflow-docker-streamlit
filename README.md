@@ -74,11 +74,10 @@ Adjusted after 10% discount: $927,624.74
 
 🏗️ Deployment: End-to-end workflow containerized for plug-and-play use
 
-📸 Screenshots (to add later)
+📸 Screenshots 
 
-Streamlit App prediction page
+Streamlit UI - screenshots/streamlitui.png
 
-MLflow UI with experiments logged
 
 📌 What’s Next
 
