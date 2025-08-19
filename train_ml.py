@@ -20,6 +20,9 @@ PIPELINE_PATH = "models/saved_pipeline.pkl"
 
 # Ensure data folder exists
 os.makedirs("data", exist_ok=True)
+if not os.path.isdir("data"):
+    os.makedirs("data")
+
 
 # =========================
 # 1️⃣ Upload new dataset
