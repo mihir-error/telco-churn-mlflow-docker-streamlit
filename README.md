@@ -76,7 +76,8 @@ Adjusted after 10% discount: $927,624.74
 
 📸 Screenshots 
 
-Streamlit UI - (screenshots/streamlitui.png)
+![Streamlit UI](screenshots/streamlitui.png)
+
 
 
 📌 What’s Next
